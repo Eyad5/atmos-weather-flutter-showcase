@@ -1,0 +1,57 @@
+name: weather_offline_app
+description: "Atmos Weather - A polished Flutter weather application with offline support, multi-city management, and forecast visualization."
+publish_to: 'none'
+
+version: 2.0.0+1
+
+environment:
+  sdk: ^3.11.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State Management
+  flutter_bloc: ^8.1.5
+
+  # Icons
+  cupertino_icons: ^1.0.8
+
+  # Networking
+  dio: ^5.4.3+1
+
+  # Local Storage
+  shared_preferences: ^2.2.3
+
+  # Dependency Injection
+  get_it: ^7.6.4
+
+  # Value Equality
+  equatable: ^2.0.5
+
+  # Functional Error Handling
+  dartz: ^0.10.1
+
+  # Loading Animation
+  shimmer: ^3.0.0
+
+  # Date Formatting
+  intl: ^0.20.2
+
+  # Charts
+  fl_chart: ^0.70.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+  # BLoC Testing
+  bloc_test: ^9.1.7
+
+  # Mocking
+  mocktail: ^1.0.4
+
+flutter:
+  uses-material-design: true
