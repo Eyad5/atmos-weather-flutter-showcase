@@ -25,21 +25,27 @@ Atmos Weather is a full-featured weather application built with Flutter, designe
 | **Shimmer Loading** | Skeleton loading animations across all screens |
 | **Pull-to-Refresh** | Swipe to refresh weather data |
 
+
 ## Screenshots
 
-> Screenshots are not yet included. They will be added to the `screenshots/` directory.
+### Home Dashboard
 
-<!--
-Uncomment once screenshots are available:
+| Light Mode | Dark Mode |
+|:---:|:---:|
+| <img src="screenshots/home_light.png" width="300" alt="Atmos Weather Home Light Mode"> | <img src="screenshots/home_dark.png" width="300" alt="Atmos Weather Home Dark Mode"> |
 
-| Home (Light) | Home (Dark) | Forecast |
+### Weather Forecast
+
+| Light Mode | Dark Mode |
+|:---:|:---:|
+| <img src="screenshots/forecast_light.png" width="300" alt="Weather Forecast Light Mode"> | <img src="screenshots/forecast_dark.png" width="300" alt="Weather Forecast Dark Mode"> |
+
+### Locations and Settings
+
+| Locations | Settings Light | Settings Dark |
 |:---:|:---:|:---:|
-| ![Home Light](screenshots/home_light.png) | ![Home Dark](screenshots/home_dark.png) | ![Forecast](screenshots/forecast_light.png) |
+| <img src="screenshots/locations.png" width="240" alt="Locations Screen"> | <img src="screenshots/settings_light.png" width="240" alt="Settings Light Mode"> | <img src="screenshots/settings_dark.png" width="240" alt="Settings Dark Mode"> |
 
-| Locations | Settings (Light) | Settings (Dark) |
-|:---:|:---:|:---:|
-| ![Locations](screenshots/locations.png) | ![Settings Light](screenshots/settings_light.png) | ![Settings Dark](screenshots/settings_dark.png) |
--->
 
 ## Tech Stack
 
